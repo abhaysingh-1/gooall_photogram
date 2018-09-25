@@ -1,4 +1,4 @@
-package com.goall.photogram;
+package com.gooall.photogram;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

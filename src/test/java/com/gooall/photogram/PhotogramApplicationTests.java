@@ -1,4 +1,4 @@
-package com.goall.photogram;
+package com.gooall.photogram;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
